@@ -106,6 +106,7 @@
 
 ## :office: Clash官网导航
 
+- [Clash Releases](https://clashnext.com/clash-releases/)
 
 ---
 
@@ -113,17 +114,17 @@
 
 | 客户端                    | 维护状态 | Windows | macOS | Linux | iOS | Android | 仓库 | 教程 |
 |------------------------|------|---------|-------|-------|-----|---------|----|----|
-| [Clash for Android]()      | :red_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [备份]() | [教程]() |
-| [Clash for Windows]()      | :red_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [备份]() | [教程]() |
-| [Clash Meta for Android]() | :green_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [官方]() | [教程]() |
-| [Clash Mi]()               | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:   | :white_check_mark:       | [官方]() | [教程]() |
-| [Clash Nyanpasu]()         | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方]() | [教程]() |
-| [Clash Party]()            | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方]() | [教程]() |
-| [Clash Verge]()            | :red_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方]() | [教程]() |
-| [Clash Verge Rev]()        | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方]() | [教程]() |
-| [ClashN]()                 | :red_circle:    | :white_check_mark:       | :x:     | :x:     | :x:   | :x:       | [官方]() | [教程]() |
-| [ClashX]()                 | :red_circle:    | :x:       | :white_check_mark:     | :x:     | :x:   | :x:       | [备份]() | [教程]() |
-| [ClashX Meta]()            | :green_circle:    | :x:       | :white_check_mark:     | :x:     | :x:   | :x:       | [官方]() | [教程]() |
-| [FlClash]()                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :white_check_mark:       | [官方]() | [教程]() |
-| [Hiddify]()                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:   | :white_check_mark:       | [官方]() | [教程]() |
+| [Clash for Android](https://clashforandroid.org/)      | :red_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [备份](https://github.com/clashnext/Clash-for-Android) | [教程](https://clashforandroid.org/) |
+| [Clash for Windows](https://clashforwindows.org/)      | :red_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [备份](https://github.com/clashnext/Clash-for-Windows) | [教程](https://clashforwindows.org/) |
+| [Clash Meta for Android](https://clashmetaforandroid.org/) | :green_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [教程](https://clashmetaforandroid.org/) |
+| [Clash Mi](https://clash-mi.org/)               | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:   | :white_check_mark:       | [官方](https://github.com/KaringX/clashmi/releases) | [教程](https://clash-mi.org/) |
+| [Clash Nyanpasu](https://clashnyanpasu.org/)         | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/LibNyanpasu/clash-nyanpasu/releases) | [教程](https://clashnyanpasu.org/) |
+| [Clash Party](https://clash-party.org/)            | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/mihomo-party-org/clash-party/releases) | [教程](https://clash-party.org/) |
+| [Clash Verge](https://clashverge.org/)            | :red_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/zzzgydi/clash-verge/releases) | [教程](https://clashverge.org/) |
+| [Clash Verge Rev](https://clashvergerev.org/)        | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [教程](https://clashvergerev.org/) |
+| [ClashN](https://getclashn.org/)                 | :red_circle:    | :white_check_mark:       | :x:     | :x:     | :x:   | :x:       | [官方](https://github.com/2dust/clashN/releases) | [教程](https://getclashn.org/) |
+| [ClashX](https://clashx.org/)                 | :red_circle:    | :x:       | :white_check_mark:     | :x:     | :x:   | :x:       | [备份](https://github.com/clashnext/ClashX) | [教程](https://clashx.org/) |
+| [ClashX Meta](https://clashxmeta.org/)            | :green_circle:    | :x:       | :white_check_mark:     | :x:     | :x:   | :x:       | [官方](https://github.com/MetaCubeX/ClashX.Meta/releases) | [教程](https://clashxmeta.org/) |
+| [FlClash](https://getflclash.org/)                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :white_check_mark:       | [官方](https://github.com/chen08209/FlClash/releases) | [教程](https://getflclash.org/) |
+| [Hiddify](https://gethiddify.org/)                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:   | :white_check_mark:       | [官方](https://github.com/hiddify/hiddify-app/releases) | [教程](https://gethiddify.org/) |
 
