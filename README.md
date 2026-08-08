@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/clashclient/Clash-Download" title="Clash下载软件教程分享">
+  <a href="https://github.com/clashnext/Clash" title="Clash下载软件教程分享">
 <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/276acb08-0a07-4f6b-b646-6ef68fb004ca" />
   </a>
   <h1>Clash下载软件教程分享 (2026年8月更新)</h1>
