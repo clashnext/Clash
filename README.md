@@ -2,7 +2,7 @@
   <a href="https://github.com/clashnext/Clash" title="Clash下载软件教程分享">
 <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/276acb08-0a07-4f6b-b646-6ef68fb004ca" />
   </a>
-  <h1>Clash下载软件教程分享 (2026年9月更新)</h1>
+  <h1>Clash下载软件教程分享 (2026年10月更新)</h1>
   <p>
     <b>Clash全平台下载软件教程分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
   </p>
