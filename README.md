@@ -7,7 +7,7 @@
     <b>Clash全平台下载软件教程分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Update-2026.09-brightgreen.svg" alt="Update">
+    <img src="https://img.shields.io/badge/Update-2026.10-brightgreen.svg" alt="Update">
     <img src="https://img.shields.io/badge/Platform-Win%20%7C%20Mac%20%7C%20iOS%20%7C%20Android%20%7C%20Linux-blue.svg" alt="Platform">
     <img src="https://img.shields.io/badge/Ecosystem-Clash%20%7C%20Mihomo%20%7C%20Sing--box%20%7C%20Xray-orange.svg" alt="Ecosystem">
   </p>
