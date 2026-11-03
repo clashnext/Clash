@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://github.com/clashnext/Clash" title="Clash下载软件教程分享">
+  <a href="https://github.com/clashnext/Clash" title="Clash Next：本月推荐与变更笔记">
 <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/276acb08-0a07-4f6b-b646-6ef68fb004ca" />
   </a>
-  <h1>Clash下载软件教程分享 (2026年11月更新)</h1>
+  <h1>Clash Next：本月推荐与变更笔记 (2026年11月更新)</h1>
   <p>
-    <b>Clash全平台下载软件教程分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+    <b>推荐 / 不推荐双栏 + 从零到可用时间线</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Update-2026.11-brightgreen.svg" alt="Update">
