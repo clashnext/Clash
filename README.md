@@ -17,6 +17,8 @@
 
 [代理雷达](https://github.com/guiforcores/dailileida)：每日追踪 mihomo、sing-box、Xray、V2Ray、Clash 及自研内核的代理客户端：开源项目看 GitHub Star，商店应用看美区 App Store / Google Play 评分数。
 
+[节点雷达](https://jiedianleida.com/)：本月变更笔记外的节点速览——免费 Clash / V2Ray / SS / Trojan 日更测速，跟「继续跟」客户端搭配试用。
+
 本页按 **「Next」变更日志** 来写：先看本月推荐 / 不推荐，再按「继续跟」与「已归档」列出客户端，最后用一条从零到可用的时间线收尾。教程以 [clashnext.com](https://clashnext.com/) 为准；安装包以各项目 GitHub Releases（或本页标明的备份仓）为准。标题里的 `YYYY年M月更新` 与徽章 `Update-YYYY.MM` 请保持原格式，由例行任务改日期。
 
 ---
